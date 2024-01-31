@@ -1,0 +1,67 @@
+(undo-tree-save-format-version . 1)
+"65b6b811d323b4664c48073dcc5050ae0cfb1f96"
+[nil nil nil nil (26042 45962 842988 453000) 0 nil]
+([nil nil ((76 . 78) (t 26042 45903 509564 94000)) nil (26042 45962 842986 828000) 0 nil])
+([nil nil ((5368 . 5369) (5361 . 5368) (5360 . 5361) (t 26042 45962 842661 530000) 5360) nil (26042 46021 309528 859000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5429 . 5430) (nil fontified nil 5369 . 5430) (5369 . 5430)) nil (26042 46021 309527 68000) 0 nil])
+([nil nil ((5431 . 5448) (5430 . 5431) (t 26042 46021 311904 163000) 5430) nil (26042 46028 538950 461000) 0 nil])
+([nil nil ((5448 . 5449)) nil (26042 46028 538948 710000) 0 nil])
+([nil nil ((5448 . 5449) (t 26042 46028 536067 103000) 5447) nil (26042 46084 737966 580000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5562 . 5563) (nil fontified nil 5432 . 5563) (5432 . 5563) 5431) nil (26042 46084 737965 705000) 0 nil])
+([nil nil ((#("(setq x-select-enable-clipboard t)
+(setq x-select-enable-primary t)
+(setq select-active-regions t)
+(setq mouse-drag-copy-region t)
+" 0 35 (face font-lock-comment-face fontified nil) 35 36 (fontified nil) 36 40 (face font-lock-keyword-face fontified nil) 40 69 (fontified nil) 69 73 (face font-lock-keyword-face fontified nil) 73 99 (fontified nil) 99 100 (fontified nil) 100 104 (face font-lock-keyword-face fontified nil) 104 130 (fontified nil) 130 131 (rear-nonsticky nil fontified nil)) . 5432) (undo-tree-id4 . -130) (undo-tree-id5 . -131) (nil fontified t 5505 . 5531) (nil fontified t 5501 . 5505) (nil fontified t 5472 . 5501) (nil fontified t 5468 . 5472) (nil fontified t 5467 . 5468) (nil fontified t 5432 . 5467) (nil rear-nonsticky t 5562 . 5563)) nil (26042 46084 737964 663000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5579 . 5580) (nil fontified nil 5449 . 5580) (5449 . 5580)) nil (26042 46084 737961 746000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5596 . 5597) (nil fontified nil 5549 . 5597) (5549 . 5597) 5548) nil (26042 46084 737960 955000) 0 nil])
+([nil nil ((#("(global-set-key (kbd \"s-a\") 'mark-whole-buffer)
+" 0 21 (fontified nil) 21 26 (face font-lock-string-face fontified nil) 26 47 (fontified nil) 47 48 (rear-nonsticky nil fontified nil)) . 5549) (undo-tree-id0 . -47) (undo-tree-id1 . -48) (undo-tree-id2 . -48) (undo-tree-id3 . -48) (nil rear-nonsticky t 5596 . 5597)) nil (26042 46084 737959 871000) 0 nil])
+([nil nil ((5579 . 5580) 5548) nil (26042 46084 737943 454000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5627 . 5628) (nil fontified nil 5580 . 5628) (5580 . 5628)) nil (26042 46084 737939 538000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5624 . 5625) (nil fontified nil 5432 . 5625) (5432 . 5625) 5431 (t 26042 46084 737394 983000)) nil (26042 46111 192016 765000) 0 nil])
+([nil nil ((#("(global-set-key (kbd \"s-c\") 'kill-ring-save)  ; Super-c for copy
+(global-set-key (kbd \"s-v\") 'yank)           ; Super-v for paste
+(global-set-key (kbd \"s-x\") 'kill-region)    ; Super-x for cut
+" 0 65 (face font-lock-comment-face fontified nil) 65 86 (fontified nil) 86 91 (face font-lock-string-face fontified nil) 91 110 (fontified nil) 110 112 (face font-lock-comment-delimiter-face fontified nil) 112 130 (face font-lock-comment-face fontified nil) 130 151 (fontified nil) 151 156 (face font-lock-string-face fontified nil) 156 175 (fontified nil) 175 177 (face font-lock-comment-delimiter-face fontified nil) 177 192 (face font-lock-comment-face fontified nil) 192 193 (face font-lock-comment-face rear-nonsticky nil fontified nil)) . 5432) (undo-tree-id10 . -192) (undo-tree-id11 . -193) (undo-tree-id12 . -193) (undo-tree-id13 . -193) (undo-tree-id14 . -193) (nil fontified t 5544 . 5562) (nil fontified t 5542 . 5544) (nil fontified t 5523 . 5542) (nil fontified t 5518 . 5523) (nil fontified t 5497 . 5518) (nil fontified t 5432 . 5497) (nil rear-nonsticky t 5624 . 5625)) nil (26042 46111 192015 682000) 0 nil])
+([nil nil ((5448 . 5449) (t 26042 46084 737394 983000) 5431) nil (26042 46111 192011 598000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5641 . 5642) (nil fontified nil 5449 . 5642) (5449 . 5642)) nil (26042 46111 192010 807000) 0 nil])
+([nil nil ((5673 . 5686) (#("d" 0 1 (face font-lock-comment-face fontified t)) . -5673) (undo-tree-id6 . -1) 5674 (5670 . 5674) (5653 . 5670) (#("o" 0 1 (face font-lock-comment-face fontified t)) . -5653) (undo-tree-id7 . -1) (#("p" 0 1 (face font-lock-comment-face fontified t)) . -5654) (undo-tree-id8 . -1) 5655 (5647 . 5655) (#("h" 0 1 (face font-lock-comment-face fontified t)) . -5647) (undo-tree-id9 . -1) 5648 (5643 . 5648) (5642 . 5643) 5642) nil (26042 46111 192006 848000) 0 nil])
+([nil nil ((#("(global-set-key (kbd \"s-a\") 'mark-whole-buffer)
+" 0 21 (fontified t) 21 26 (face font-lock-string-face fontified t) 26 48 (fontified t)) . 5818) (undo-tree-id0 . -3) (undo-tree-id1 . -3) (undo-tree-id2 . -3) (undo-tree-id3 . 44) (undo-tree-id4 . -3) (undo-tree-id5 . -3) (undo-tree-id6 . -47) 5821 (t 26042 46111 194052 983000)) nil (26042 48147 511183 95000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5641 . 5642) (#("
+" 0 1 (fontified nil)) . -5689) (5641 . 5690) 5579) nil (26042 48147 511173 27000) 0 nil])
+([nil nil ((5712 . 5714) (#("a" 0 1 (face font-lock-comment-face fontified t)) . -5712) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (#("l" 0 1 (face font-lock-comment-face fontified t)) . -5713) (undo-tree-id9 . -1) (undo-tree-id10 . -1) 5714 (5710 . 5714) (#(" " 0 1 (face font-lock-comment-face fontified t)) . -5710) (undo-tree-id11 . -1) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (#("-" 0 1 (face font-lock-comment-face fontified t)) . -5711) (undo-tree-id15 . -1) (undo-tree-id16 . -1) 5712 (5711 . 5712) (#("a" 0 1 (face font-lock-comment-face fontified t)) . -5711) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (#("l" 0 1 (face font-lock-comment-face fontified t)) . -5712) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (#("l" 0 1 (face font-lock-comment-face fontified t)) . -5713) (undo-tree-id21 . -1) (undo-tree-id22 . -1) 5714 (5704 . 5714) (#("e" 0 1 (face font-lock-comment-face fontified t)) . -5704) (undo-tree-id23 . -1) (#("k" 0 1 (face font-lock-comment-face fontified t)) . -5705) (undo-tree-id24 . -1) 5706 (5701 . 5706) (#("i" 0 1 (face font-lock-comment-face fontified t)) . -5701) (undo-tree-id25 . -1) (#("r" 0 1 (face font-lock-comment-face fontified t)) . -5702) (undo-tree-id26 . -1) (#(" " 0 1 (face font-lock-comment-face fontified t)) . -5703) (undo-tree-id27 . -1) 5704 (5690 . 5704) (#("l" 0 1 (fontified t)) . -5690) (undo-tree-id28 . -1) 5691 (5689 . 5691) (t 26042 48147 512221 623000)) nil (26042 48163 635138 508000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . -5892) (undo-tree-id29 . -1) (undo-tree-id30 . -1) (undo-tree-id31 . -1) (undo-tree-id32 . -1) (undo-tree-id33 . -1) (undo-tree-id34 . -1) (undo-tree-id35 . -1) (undo-tree-id36 . -1) (undo-tree-id37 . -1) 5893 (t 26042 48163 638989 788000)) nil (26042 48174 558723 256000) 0 nil])
+([nil nil ((5892 . 5894) (t 26042 48174 562697 885000)) nil (26042 48280 576195 439000) 0 nil])
+([nil nil ((5900 . 5921) (#(" " 0 1 (face font-lock-comment-face fontified t)) . -5900) (undo-tree-id38 . -1) (undo-tree-id39 . -1) (#("c" 0 1 (face font-lock-comment-face fontified t)) . -5901) (undo-tree-id40 . -1) (undo-tree-id41 . -1) (#("u" 0 1 (face font-lock-comment-face fontified t)) . -5902) (undo-tree-id42 . -1) (undo-tree-id43 . -1) (#("t" 0 1 (face font-lock-comment-face fontified t)) . -5903) (undo-tree-id44 . -1) (undo-tree-id45 . -1) (#(" " 0 1 (face font-lock-comment-face fontified t)) . -5904) (undo-tree-id46 . -1) (undo-tree-id47 . -1) 5905 (5894 . 5905) (#("
+" 0 1 (face font-lock-comment-face fontified t)) . -5894) (undo-tree-id48 . -1) (undo-tree-id49 . -1) (undo-tree-id50 . -1) 5895 (#("short-" 0 6 (fontified t)) . -5895) (undo-tree-id51 . -6) (undo-tree-id52 . -6) (undo-tree-id53 . -6) 5901 (#("cut " 0 4 (fontified t)) . -5901) (undo-tree-id54 . -4) 5905 (#("for " 0 4 (fontified t)) . -5905) (undo-tree-id55 . -4) 5909 (5903 . 5909) (#("r" 0 1 (fontified t)) . -5903) (undo-tree-id56 . -1) 5904 (5900 . 5904) (#(" " 0 1 (fontified t)) . -5900) (undo-tree-id57 . -1) (#("c" 0 1 (fontified t)) . -5901) (undo-tree-id58 . -1) (#("u" 0 1 (fontified t)) . -5902) (undo-tree-id59 . -1) (#("t" 0 1 (fontified t)) . -5903) (undo-tree-id60 . -1) (#(" " 0 1 (fontified t)) . -5904) (undo-tree-id61 . -1) 5905 (5895 . 5905) (5894 . 5895) 5893) nil (26042 48280 576192 939000) 0 nil])
+([nil nil ((5921 . 5922)) nil (26042 48280 576165 314000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6077 . 6078) (nil fontified nil 5923 . 6078) (5923 . 6078) (5922 . 5923) (t 26042 48280 578086 348000) 5922) nil (26042 48298 715675 673000) 0 nil])
+([nil nil ((6078 . 6079) (nil rear-nonsticky nil 6119 . 6120) (nil fontified nil 6078 . 6120) (6078 . 6120) (t 26042 48298 718014 497000)) nil (26042 48309 278905 313000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6535 . 6536) (nil fontified nil 6079 . 6536) (6079 . 6536) (6079 . 6080) (6078 . 6079) (t 26042 48309 281970 717000) 6078) nil (26042 48420 510865 885000) 0 nil])
+([nil nil ((#("(require 'exwm)
+(require 'exwm-config)
+(exwm-config-default)
+" 0 1 (fontified t) 1 8 (face font-lock-keyword-face fontified t) 8 10 (fontified t) 10 14 (face font-lock-constant-face fontified t) 14 17 (fontified t) 17 24 (face font-lock-keyword-face fontified t) 24 26 (fontified t) 26 37 (face font-lock-constant-face fontified t) 37 61 (fontified t)) . 6079) (undo-tree-id86 . -39) (undo-tree-id87 . -39) (undo-tree-id88 . -60) (undo-tree-id89 . -39) (undo-tree-id90 . -39) (undo-tree-id91 . -61)) nil (26042 48420 510864 426000) 0 nil])
+([nil nil ((#("(global-set-key (kbd \"s-e\") 'eval-buffer)
+" 0 21 (fontified t) 21 26 (face font-lock-string-face fontified t) 26 41 (fontified t) 41 42 (fontified t rear-nonsticky t)) . 6477) (undo-tree-id80 . -41) (undo-tree-id81 . -42) (undo-tree-id82 . -17) (undo-tree-id83 . -17) (undo-tree-id84 . -17) (undo-tree-id85 . -42)) nil (26042 48420 510860 218000) 0 nil])
+([nil nil ((#("(global-set-key (kbd \"s-f\") (lambda ()
+                              (interactive)
+                              (start-process \"firefox\" nil \"firefox\")))
+" 0 21 (fontified t) 21 26 (face font-lock-string-face fontified t) 26 29 (fontified t) 29 35 (face font-lock-keyword-face fontified t) 35 70 (fontified t) 70 81 (face font-lock-keyword-face fontified t) 81 128 (fontified t) 128 137 (face font-lock-string-face fontified t) 137 142 (fontified t) 142 151 (face font-lock-string-face fontified t) 151 154 (fontified t) 154 155 (rear-nonsticky t fontified t)) . 5923) (undo-tree-id73 . -83) (undo-tree-id74 . -83) (undo-tree-id75 . -154) (undo-tree-id76 . -155) (undo-tree-id77 . -83) (undo-tree-id78 . -83) (undo-tree-id79 . -155)) nil (26042 48420 510853 718000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 5923) (undo-tree-id64 . 1) (undo-tree-id65 . -1) (undo-tree-id66 . -1) (undo-tree-id67 . -1) (undo-tree-id68 . -1) (undo-tree-id69 . -1) (undo-tree-id70 . -1) (undo-tree-id71 . -1) (undo-tree-id72 . -1)) nil (26042 48420 510848 385000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 5923) (undo-tree-id62 . 1) (undo-tree-id63 . -1)) nil (26042 48420 510839 926000) 0 nil])
+([nil nil ((5923 . 5936) (#(";; Keybinding" 0 3 (face font-lock-comment-delimiter-face fontified t) 3 13 (face font-lock-comment-face fontified t)) . 5923) (t 26042 48420 513488 957000)) nil (26042 48457 853810 47000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6319 . 6320) (nil fontified nil 6319 . 6320) (6319 . 6320)) nil (26042 48457 853808 547000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6360 . 6361) (nil fontified nil 6319 . 6361) (6319 . 6361) (#("p" 0 1 (fontified t)) . -6319) (undo-tree-id92 . -1) (undo-tree-id93 . -1) 6320 (6319 . 6320) (6318 . 6319) 6318) nil (26042 48457 853804 380000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 6318 . 6319) (#("
+" 0 1 (fontified nil face font-lock-comment-face)) . -6355) (6318 . 6356) (t 26042 48457 857324 739000)) nil (26042 48490 403140 887000) 0 nil])
+([nil nil ((#("open " 0 5 (face font-lock-comment-face fontified t)) . 6336) (undo-tree-id100 . -4) (undo-tree-id101 . -5)) nil (26042 48490 403139 221000) 0 nil])
+([nil nil ((#("GNOME " 0 6 (face font-lock-comment-face fontified t)) . 6336) (undo-tree-id98 . -5) (undo-tree-id99 . -6)) nil (26042 48490 403136 596000) 0 nil])
+([nil nil ((#("Terminal" 0 8 (face font-lock-comment-face fontified t)) . 6336) (undo-tree-id96 . -7) (undo-tree-id97 . -8)) nil (26042 48490 403133 804000) 0 nil])
+([nil current ((6338 . 6351) (#("e" 0 1 (face font-lock-comment-face fontified t)) . -6338) (undo-tree-id94 . -1) (#("v" 0 1 (face font-lock-comment-face fontified t)) . -6339) (undo-tree-id95 . -1) 6340 (6335 . 6340)) nil (26042 48490 403128 679000) 0 nil])
+nil

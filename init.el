@@ -211,5 +211,3 @@
 ;; Keybinding to re-eval init.el 
 (global-set-key (kbd "s-e") 'eval-buffer)
 
-
-

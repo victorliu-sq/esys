@@ -199,7 +199,7 @@
 ;; short-cut for applications
 
 ;; Keybinding to open Firefox
-(exwm-input-set-key (kbd "s-f") (lambda ()
+(exwm-input-set-key (kbd "s-g") (lambda ()
                                   (interactive)
                                   (start-process "" nil "firefox")))
 
@@ -210,4 +210,24 @@
 
 ;; Keybinding to re-eval init.el 
 (global-set-key (kbd "s-e") 'eval-buffer)
+
+
+;; enable desktop save mode
+(desktop-save-mode 1)
+
+
+;; workspace
+(setq exwm-workspace-number 0)  
+
+;; swap windows
+(defun swap-windows ()
+ "Swap the buffers shown in two windows."
+ (interactive)
+ (let ((buffer-a (window-buffer (nth 0 (window-list))))
+       (window-b (nth 1 (window-list))))
+   (set-window-buffer (nth 0 (window-list)) (window-buffer window-b))
+   (set-window-buffer window-b buffer-a)))
+
+(global-set-key (kbd "C-c s") 'swap-windows)
+
 
